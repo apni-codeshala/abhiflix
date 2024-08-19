@@ -1,6 +1,8 @@
+import Body from './components/Body';
+
 function App() {
   return (
-    <div className="underline text-2xl font-bold text-green-700">Hello from abhishek</div>
+    <Body />
   );
 }
 
